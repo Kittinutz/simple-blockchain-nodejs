@@ -58,3 +58,13 @@ class Block {
 }
 exports.Block = Block
 ```
+
+# chainIsValid
+## it will checking data for each block check about self hash value and check prevHash on with hash value on previouse array
+
+```
+yarn 
+or
+npm install
+SENDER=John RECEIVER=Alice AMOUNT=1000 node index.js
+```
